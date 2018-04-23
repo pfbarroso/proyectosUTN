@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1524248254 source:/home/pablo/Programmazione/Gerflix/funciones_gerflix.c
+	"funciones_gerflix.h"
+
+1524247352 /home/pablo/Programmazione/Gerflix/funciones_gerflix.h
+	"gerflix_series.h"
+	"gerflix_users.h"
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+	<unistd.h>
+
+1524231344 source:/home/pablo/Programmazione/Gerflix/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+	"funciones_gerflix.h"
+
+1524242993 source:/home/pablo/Programmazione/Gerflix/gerflix_series.c
+	<stdio.h>
+	"gerflix_series.h"
+
+1524246525 /home/pablo/Programmazione/Gerflix/gerflix_series.h
+
+1524248786 source:/home/pablo/Programmazione/Gerflix/gerflix_users.c
+	<stdio.h>
+	"gerflix_users.h"
+
+1524246525 /home/pablo/Programmazione/Gerflix/gerflix_users.h
+
+1524448345 source:/home/pablo/Programming/Gerflix/funciones_gerflix.c
+	"funciones_gerflix.h"
+
+1524448373 /home/pablo/Programming/Gerflix/funciones_gerflix.h
+	"gerflix_series.h"
+	"gerflix_users.h"
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+	<unistd.h>
+
+1524416007 /home/pablo/Programming/Gerflix/gerflix_series.h
+
+1524416007 /home/pablo/Programming/Gerflix/gerflix_users.h
+
+1524430676 source:/home/pablo/Programming/Gerflix/gerflix_series.c
+	<stdio.h>
+	"gerflix_series.h"
+
+1524440765 source:/home/pablo/Programming/Gerflix/gerflix_users.c
+	<stdio.h>
+	"gerflix_users.h"
+
+1524416007 source:/home/pablo/Programming/Gerflix/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+	"funciones_gerflix.h"
+
